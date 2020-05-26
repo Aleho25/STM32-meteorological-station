@@ -1,0 +1,16 @@
+BMP180.c:50:6:BMP180_setAddress	16	static
+BMP180.c:58:6:BMP180_initialize	8	static
+BMP180.c:68:6:BMP180_testConnection	8	static
+BMP180.c:76:6:BMP180_loadCalibration	40	static
+BMP180.c:175:9:BMP180_getControl	8	static
+BMP180.c:180:6:BMP180_setControl	16	static
+BMP180.c:188:10:BMP180_getMeasurement2	16	static
+BMP180.c:193:10:BMP180_getMeasurement3	16	static
+BMP180.c:198:9:BMP180_getMeasureDelayMilliseconds	16	static
+BMP180.c:208:10:BMP180_getMeasureDelayMicroseconds	16	static
+BMP180.c:219:10:BMP180_getRawTemperature	8	static
+BMP180.c:225:7:BMP180_getTemperatureC	24	static
+BMP180.c:242:7:BMP180_getTemperatureF	8	static
+BMP180.c:247:10:BMP180_getRawPressure	8	static
+BMP180.c:253:7:BMP180_getPressure	48	static
+BMP180.c:302:7:BMP180_getAltitude	24	static

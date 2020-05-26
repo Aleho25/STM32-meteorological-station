@@ -1,0 +1,4 @@
+display2004.c:12:6:UARTdev_init	16	static
+display2004.c:48:6:I2C_send	32	static
+display2004.c:70:6:LCD_SendString	16	static
+display2004.c:80:6:LCD_Setup	8	static

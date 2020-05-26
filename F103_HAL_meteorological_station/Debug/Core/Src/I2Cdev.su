@@ -1,0 +1,17 @@
+I2Cdev.c:38:6:I2Cdev_init	16	static
+I2Cdev.c:64:9:I2Cdev_readBit	24	static
+I2Cdev.c:80:9:I2Cdev_readBitW	24	static
+I2Cdev.c:97:9:I2Cdev_readBits	32	static
+I2Cdev.c:124:9:I2Cdev_readBitsW	32	static
+I2Cdev.c:150:9:I2Cdev_readByte	24	static
+I2Cdev.c:162:9:I2Cdev_readWord	24	static
+I2Cdev.c:175:9:I2Cdev_readBytes	32	static
+I2Cdev.c:193:9:I2Cdev_readWords	32	static
+I2Cdev.c:211:10:I2Cdev_writeBit	32	static
+I2Cdev.c:226:10:I2Cdev_writeBitW	32	static
+I2Cdev.c:242:10:I2Cdev_writeBits	32	static
+I2Cdev.c:275:10:I2Cdev_writeBitsW	32	static
+I2Cdev.c:306:10:I2Cdev_writeByte	16	static
+I2Cdev.c:317:10:I2Cdev_writeWord	16	static
+I2Cdev.c:329:10:I2Cdev_writeBytes	48	static
+I2Cdev.c:342:10:I2Cdev_writeWords	48	static
